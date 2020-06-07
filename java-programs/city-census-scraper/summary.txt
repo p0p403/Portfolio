@@ -1,0 +1,16 @@
+                     Preschool Kid        Residential Count       Hotel Count
+===================================================================================
+NORTH                        14454                   160576                  2
+NORTHEAST                    17118                   185562                 36
+EAST                          4409                    58405                  3
+SOUTHEAST                    13805                   135314                  6
+SOUTH                        16519                   227421                 11
+SOUTHWEST                        0                        0                  0
+WEST                          9500                   124533                  7
+NORTHWEST                    10795                   175448                 25
+CENTRE                       11636                   199977                 79
+-----------------------------------------------------------------------------------
+Grand Total                  98236                  1267236                169
+
+Highest Population          227421                    SOUTH
+Lowest Population                0                SOUTHWEST

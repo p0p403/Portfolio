@@ -1,0 +1,16 @@
+**************************************************
+Program description: Census Table Maker
+**************************************************
+Welcome to Calgary Census 2018
+-----------------------------------------------------------------
+Input file: census.tsv
+Output file: summary.txt
+-----------------------------------------------------------------
+File Processed: census.tsv
+Results printed to: summary.txt
+
+Summary:
+Total Residential population:     1267236
+**************************************************
+Program description: Census Table Maker
+**************************************************

@@ -1,0 +1,36 @@
+**************************************************
+Program description: Hockey Player Comparison
+**************************************************
+What is the name of the input file? nhl-stats.csv
+Name of 1st team to be processed? NYI
+Name of 2nd team to be processed? nyr
+Best Player
+NYI: Name: Josh Bailey
+   GP    G    A  PTS    PPG    S    ST%
+   11    2   10   12   1.09   16  12.50
+
+NYR: Name: Mika Zibanejad
+   GP    G    A  PTS    PPG    S    ST%
+   12    5    5   10   0.83   49  10.20
+
+Best Player (PPG)
+NYI: Name: Josh Bailey
+   GP    G    A  PTS    PPG    S    ST%
+   11    2   10   12   1.09   16  12.50
+
+NYR: Name: Anthony DeAngelo
+   GP    G    A  PTS    PPG    S    ST%
+    4    1    3    4   1.00    5  20.00
+
+Best Shooter
+NYI: Name: Tom Kuhnhackl
+   GP    G    A  PTS    PPG    S    ST%
+    4    1    0    1   0.25    2  50.00
+
+NYR: Name: Pavel Buchnevich
+   GP    G    A  PTS    PPG    S    ST%
+   10    3    2    5   0.50   12  25.00
+
+**************************************************
+Program description: Hockey Player Comparison
+**************************************************
