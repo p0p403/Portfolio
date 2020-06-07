@@ -21,7 +21,7 @@ public class PasswordGenerator
    
     System.out.println("Enter Number to start from");
     int currentCount = keyboard.nextInt();
-    int endingCount = 1000000;
+    int endingCount = 100000000;
 
     
     while (currentCount != endingCount){
